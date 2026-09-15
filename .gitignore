@@ -1,0 +1,9 @@
+.env
+.env.local
+chroma_db/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.sentence_transformers_cache/
+.cache/huggingface/
